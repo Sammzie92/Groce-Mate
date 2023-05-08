@@ -1,0 +1,15 @@
+{
+  "name": "groce-mate",
+  "version": "1.0.0",
+  "description": "done by tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build -i src/input.css -o public/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
